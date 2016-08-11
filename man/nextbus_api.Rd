@@ -13,6 +13,6 @@ nextbus_api(param)
 xml_parse
 }
 \description{
-NextBus API
+Main call to the API
 }
 

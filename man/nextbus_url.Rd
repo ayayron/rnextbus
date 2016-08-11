@@ -13,6 +13,6 @@ nextbus_url(base_url = NULL)
 nextbus_url
 }
 \description{
-NextBus API
+Base URL function
 }
 
