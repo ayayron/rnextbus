@@ -11,6 +11,6 @@ Imports:
     data.table
 Suggests:
   testthat
-License: GPL-3
+License: MIT + file LICENSE
 LazyData: TRUE
 RoxygenNote: 5.0.1
